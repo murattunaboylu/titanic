@@ -1,7 +1,4 @@
-import pandas as p
-import numpy as np
 import tensorflow as tf
-import matplotlib.pyplot as plt
 
 # Define the format of your input data including unused columns
 CSV_COLUMNS = ['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex',
