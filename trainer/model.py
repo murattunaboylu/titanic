@@ -4,9 +4,9 @@ import tensorflow as tf
 CSV_COLUMNS = ['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex',
                'Age', 'SibSp', 'Parch', 'Ticket', 'Fare',
                'Cabin', 'Embarked']
-CSV_COLUMN_DEFAULTS = [[0], [0], [0], [''], [''], [0], [0], [0], [''], [0], [''], ['']]
+CSV_COLUMN_DEFAULTS = [[0], [''], [0], [''], [''], [0.], [0], [0], [''], [0.], [''], ['']]
 LABEL_COLUMN = 'Survived'
-LABELS = [0, 1]
+LABELS = ['0', '1']
 
 
 # Define the initial ingestion of each feature used by your model.
