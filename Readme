@@ -15,6 +15,13 @@ gcloud ml-engine local train \
 tensorboard --logdir=output --port=8080
 
 gcloud ml-engine local predict \
---model-dir=$MODEL_DIR \
+--model-dir=$MODEL_DIR/export/Servo/1505056497/ \
 --json-instances \
-../test.json
+data/test.json
+
+# write to a file
+gcloud ml-engine local predict \
+--model-dir=$MODEL_DIR/export/Servo/1505056497/ \
+--json-instances \
+data/test.json > output.cabin.txt
+

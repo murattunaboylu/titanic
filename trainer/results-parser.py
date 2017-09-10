@@ -1,5 +1,5 @@
-reader = open('../data/output.batch.csv')
-writer = open('../data/titanic.prediction.1.csv', 'w')
+reader = open('../output/output.cabin.txt')
+writer = open('../data/titanic.prediction.3.csv', 'w')
 
 writer.write('PassengerId,Survived\n')
 

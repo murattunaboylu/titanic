@@ -38,7 +38,7 @@ def generate_experiment_fn(**experiment_args):
         eval_input = lambda: model.generate_input_fn(
             hparams.eval_files,
             batch_size=hparams.eval_batch_size,
-            shuffle=False
+            shuffle=True
         )
 
         return tf.contrib.learn.Experiment(
