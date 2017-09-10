@@ -94,26 +94,19 @@ def build_estimator(config, embedding_size=8, hidden_units=None):
           [age_buckets, sex], hash_bucket_size=int(1e4)),
         tf.feature_column.crossed_column(
             [cabin_class, cabin_buckets], hash_bucket_size=int(1e4)),
-        tf.feature_column.crossed_column(
-            [cabin_class, cabin_buckets, parent], hash_bucket_size=int(1e6)),
-        tf.feature_column.crossed_column(
-            [cabin_class, cabin_buckets, sibling], hash_bucket_size=int(1e6)),
         p_class,
         sex,
         sibling,
         parent,
         embarked,
         age_buckets,
-        cabin_class,
-        cabin_buckets
+        cabin_class
     ]
 
     deep_columns = [
         # Use indicator columns for low dimensional vocabularies
         tf.feature_column.indicator_column(p_class),
         tf.feature_column.indicator_column(sex),
-        tf.feature_column.indicator_column(sibling),
-        tf.feature_column.indicator_column(parent),
         tf.feature_column.indicator_column(embarked),
 
         # Use embedding columns for high dimensional vocabularies
@@ -121,8 +114,7 @@ def build_estimator(config, embedding_size=8, hidden_units=None):
         #    native_country, dimension=embedding_size),
         # tf.feature_column.embedding_column(occupation, dimension=embedding_size),
         age,
-        fare,
-        cabin_no
+        fare
     ]
 
     return tf.contrib.learn.DNNLinearCombinedClassifier(

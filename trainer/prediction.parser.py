@@ -1,5 +1,5 @@
-reader = open('../output/output.cabin.txt')
-writer = open('../data/titanic.prediction.3.csv', 'w')
+reader = open('../output/output.cross-validation.2.txt')
+writer = open('../data/titanic.prediction.5.csv', 'w')
 
 writer.write('PassengerId,Survived\n')
 
