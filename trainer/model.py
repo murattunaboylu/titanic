@@ -30,10 +30,9 @@ INPUT_COLUMNS = [
     # Feature for cabin
     # Screening the values
     # cat data/train.data.csv | cut -d, -f12 | sort | uniq
-    tf.feature_column.categorical_column_width_vocabulary_list(
+    tf.feature_column.categorical_column_with_vocabulary_list(
         'CabinClass',
-        ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'T']
-    ),
+        ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'T']),
     tf.feature_column.categorical_column_with_vocabulary_list(
         'Embarked',
         ['S', 'C', ' Q']),
