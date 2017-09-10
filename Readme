@@ -11,3 +11,10 @@ gcloud ml-engine local train \
     --train-steps 1000 \
     --job-dir $MODEL_DIR \
     --eval-steps 100
+
+tensorboard --logdir=output --port=8080
+
+gcloud ml-engine local predict \
+--model-dir=$MODEL_DIR \
+--json-instances \
+../test.json

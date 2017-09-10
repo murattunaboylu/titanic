@@ -19,14 +19,14 @@ while line:
     age = col[5] if col[5] != "" else 0
     sibsp = col[6]
     parch = col[7]
-    fare = col[9]
+    fare = col[9] if col[9] != "" else 0
     cabin_class = col[10][:1]
     cabin_nos = col[10][1:]
     cabin_no = cabin_nos.split(' ')[0]
     cabin_no = cabin_no if is_int(cabin_no) else 0
     embarked = col[11]
 
-    json = '{{"Pclass":{},"Sex":"{}", "Age":{}, "SibSp":{}, "Parch":{}, "Fare":{}, "Embarked":"{}", "CabinClass":"{}"' \
+    json = '{{"Pclass":{}, "Sex":"{}", "Age":{}, "SibSp":{}, "Parch":{}, "Fare":{}, "Embarked":"{}", "CabinClass":"{}"' \
            ', "CabinNo":{}}}\n'.format(pclass, sex, age, sibsp, parch, fare, embarked, cabin_class, cabin_no)
     writer.write(json)
 

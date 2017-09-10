@@ -1,418 +1,418 @@
-{"Pclass":3,"Sex":"male", "Age":34.5, "SibSp":0, "Parch":0, "Fare":7.8292, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":47, "SibSp":1, "Parch":0, "Fare":7, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":62, "SibSp":0, "Parch":0, "Fare":9.6875, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":22, "SibSp":1, "Parch":1, "Fare":12.2875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":14, "SibSp":0, "Parch":0, "Fare":9.225, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":30, "SibSp":0, "Parch":0, "Fare":7.6292, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":26, "SibSp":1, "Parch":1, "Fare":29, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":18, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":21, "SibSp":2, "Parch":0, "Fare":24.15, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":46, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":23, "SibSp":1, "Parch":0, "Fare":82.2667, "Embarked":"S", "CabinClass":"B", "CabinNo":45}
-{"Pclass":2,"Sex":"male", "Age":63, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":47, "SibSp":1, "Parch":0, "Fare":61.175, "Embarked":"S", "CabinClass":"E", "CabinNo":31}
-{"Pclass":2,"Sex":"female", "Age":24, "SibSp":1, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":35, "SibSp":0, "Parch":0, "Fare":12.35, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":27, "SibSp":1, "Parch":0, "Fare":7.925, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":45, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":55, "SibSp":1, "Parch":0, "Fare":59.4, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":9, "SibSp":0, "Parch":1, "Fare":3.1708, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":31.6833, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":21, "SibSp":0, "Parch":1, "Fare":61.3792, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":48, "SibSp":1, "Parch":3, "Fare":262.375, "Embarked":"C", "CabinClass":"B", "CabinNo":57}
-{"Pclass":3,"Sex":"male", "Age":50, "SibSp":1, "Parch":0, "Fare":14.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":22, "SibSp":0, "Parch":1, "Fare":61.9792, "Embarked":"C", "CabinClass":"B", "CabinNo":36}
-{"Pclass":3,"Sex":"male", "Age":22.5, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":41, "SibSp":0, "Parch":0, "Fare":30.5, "Embarked":"S", "CabinClass":"A", "CabinNo":21}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":2, "Parch":0, "Fare":21.6792, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":50, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":24, "SibSp":2, "Parch":0, "Fare":31.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":33, "SibSp":1, "Parch":2, "Fare":20.575, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":1, "Parch":2, "Fare":23.45, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":30, "SibSp":1, "Parch":0, "Fare":57.75, "Embarked":"C", "CabinClass":"C", "CabinNo":78}
-{"Pclass":3,"Sex":"male", "Age":18.5, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":21, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":9.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":56.4958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":39, "SibSp":0, "Parch":1, "Fare":13.4167, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"D", "CabinNo":34}
-{"Pclass":3,"Sex":"male", "Age":41, "SibSp":0, "Parch":0, "Fare":7.85, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":30, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":45, "SibSp":1, "Parch":0, "Fare":52.5542, "Embarked":"S", "CabinClass":"D", "CabinNo":19}
-{"Pclass":3,"Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":7.925, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":45, "SibSp":0, "Parch":0, "Fare":29.7, "Embarked":"C", "CabinClass":"A", "CabinNo":9}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":60, "SibSp":0, "Parch":0, "Fare":76.2917, "Embarked":"C", "CabinClass":"D", "CabinNo":15}
-{"Pclass":3,"Sex":"female", "Age":36, "SibSp":0, "Parch":2, "Fare":15.9, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":24, "SibSp":1, "Parch":0, "Fare":60, "Embarked":"S", "CabinClass":"C", "CabinNo":31}
-{"Pclass":2,"Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":15.0333, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":20, "SibSp":2, "Parch":1, "Fare":23, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":28, "SibSp":3, "Parch":2, "Fare":263, "Embarked":"S", "CabinClass":"C", "CabinNo":23}
-{"Pclass":2,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":15.5792, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":10, "SibSp":4, "Parch":1, "Fare":29.125, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":35, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":7.65, "Embarked":"S", "CabinClass":"F", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":1, "Parch":0, "Fare":16.1, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":36, "SibSp":0, "Parch":0, "Fare":262.375, "Embarked":"C", "CabinClass":"B", "CabinNo":61}
-{"Pclass":3,"Sex":"male", "Age":17, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":13.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":18, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":22, "SibSp":0, "Parch":0, "Fare":7.725, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":13, "SibSp":2, "Parch":2, "Fare":262.375, "Embarked":"C", "CabinClass":"B", "CabinNo":57}
-{"Pclass":2,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":18, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":47, "SibSp":0, "Parch":0, "Fare":42.4, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":31, "SibSp":0, "Parch":0, "Fare":28.5375, "Embarked":"C", "CabinClass":"C", "CabinNo":53}
-{"Pclass":1,"Sex":"female", "Age":60, "SibSp":1, "Parch":4, "Fare":263, "Embarked":"S", "CabinClass":"C", "CabinNo":23}
-{"Pclass":3,"Sex":"female", "Age":24, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":29, "SibSp":0, "Parch":0, "Fare":7.925, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":28.5, "SibSp":0, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"D", "CabinNo":43}
-{"Pclass":1,"Sex":"female", "Age":35, "SibSp":0, "Parch":0, "Fare":211.5, "Embarked":"C", "CabinClass":"C", "CabinNo":130}
-{"Pclass":1,"Sex":"male", "Age":32.5, "SibSp":0, "Parch":0, "Fare":211.5, "Embarked":"C", "CabinClass":"C", "CabinNo":132}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":55, "SibSp":2, "Parch":0, "Fare":25.7, "Embarked":"S", "CabinClass":"C", "CabinNo":101}
-{"Pclass":2,"Sex":"male", "Age":30, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":24, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":6, "SibSp":1, "Parch":1, "Fare":15.2458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":67, "SibSp":1, "Parch":0, "Fare":221.7792, "Embarked":"S", "CabinClass":"C", "CabinNo":55}
-{"Pclass":1,"Sex":"male", "Age":49, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":10.7083, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":1, "Parch":0, "Fare":14.4542, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":27, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":18, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":2, "SibSp":1, "Parch":1, "Fare":23, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":22, "SibSp":1, "Parch":0, "Fare":13.9, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":27, "SibSp":1, "Parch":2, "Fare":52, "Embarked":"S", "CabinClass":"B", "CabinNo":71}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":7.7958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":76, "SibSp":1, "Parch":0, "Fare":78.85, "Embarked":"S", "CabinClass":"C", "CabinNo":46}
-{"Pclass":3,"Sex":"male", "Age":29, "SibSp":0, "Parch":0, "Fare":7.925, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":20, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":33, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":43, "SibSp":1, "Parch":0, "Fare":55.4417, "Embarked":"C", "CabinClass":"C", "CabinNo":116}
-{"Pclass":2,"Sex":"male", "Age":27, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":16, "SibSp":1, "Parch":1, "Fare":8.5167, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":28, "SibSp":0, "Parch":0, "Fare":22.525, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.8208, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.7125, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":18.5, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"F", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":41, "SibSp":0, "Parch":0, "Fare":15.0458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.7792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":36, "SibSp":0, "Parch":0, "Fare":31.6792, "Embarked":"C", "CabinClass":"A", "CabinNo":29}
-{"Pclass":3,"Sex":"female", "Age":18.5, "SibSp":0, "Parch":0, "Fare":7.2833, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":63, "SibSp":1, "Parch":0, "Fare":221.7792, "Embarked":"S", "CabinClass":"C", "CabinNo":55}
-{"Pclass":3,"Sex":"male", "Age":18, "SibSp":1, "Parch":0, "Fare":14.4542, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":6.4375, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":1, "SibSp":1, "Parch":1, "Fare":16.7, "Embarked":"S", "CabinClass":"G", "CabinNo":6}
-{"Pclass":1,"Sex":"male", "Age":36, "SibSp":0, "Parch":0, "Fare":75.2417, "Embarked":"C", "CabinClass":"C", "CabinNo":6}
-{"Pclass":2,"Sex":"female", "Age":29, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":12, "SibSp":0, "Parch":0, "Fare":15.75, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":1, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":35, "SibSp":1, "Parch":0, "Fare":57.75, "Embarked":"C", "CabinClass":"C", "CabinNo":28}
-{"Pclass":3,"Sex":"male", "Age":28, "SibSp":0, "Parch":0, "Fare":7.25, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":17, "SibSp":0, "Parch":1, "Fare":16.1, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":22, "SibSp":0, "Parch":0, "Fare":7.7958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":2, "Parch":0, "Fare":23.25, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":42, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":53, "SibSp":0, "Parch":0, "Fare":28.5, "Embarked":"C", "CabinClass":"C", "CabinNo":51}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":4, "Fare":25.4667, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":1, "Parch":0, "Fare":6.4375, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":43, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":26.5, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":23, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":40, "SibSp":1, "Parch":6, "Fare":46.9, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":10, "SibSp":5, "Parch":2, "Fare":46.9, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":33, "SibSp":0, "Parch":0, "Fare":151.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":61, "SibSp":1, "Parch":3, "Fare":262.375, "Embarked":"C", "CabinClass":"B", "CabinNo":57}
-{"Pclass":2,"Sex":"male", "Age":28, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":42, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":31, "SibSp":3, "Parch":0, "Fare":18, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":51.8625, "Embarked":"S", "CabinClass":"E", "CabinNo":46}
-{"Pclass":3,"Sex":"male", "Age":22, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":30, "SibSp":1, "Parch":1, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":23, "SibSp":0, "Parch":1, "Fare":83.1583, "Embarked":"C", "CabinClass":"C", "CabinNo":54}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":60.5, "SibSp":0, "Parch":0, "Fare":, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":36, "SibSp":0, "Parch":2, "Fare":12.1833, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":13, "SibSp":4, "Parch":2, "Fare":31.3875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":7.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":29, "SibSp":0, "Parch":0, "Fare":221.7792, "Embarked":"S", "CabinClass":"C", "CabinNo":97}
-{"Pclass":3,"Sex":"female", "Age":23, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":42, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"D", "CabinNo":22}
-{"Pclass":3,"Sex":"female", "Age":26, "SibSp":0, "Parch":2, "Fare":13.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.7333, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":7, "SibSp":1, "Parch":1, "Fare":15.2458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":26, "SibSp":0, "Parch":0, "Fare":13.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":41, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":26, "SibSp":1, "Parch":1, "Fare":22.025, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":48, "SibSp":0, "Parch":0, "Fare":50.4958, "Embarked":"C", "CabinClass":"B", "CabinNo":10}
-{"Pclass":3,"Sex":"male", "Age":18, "SibSp":2, "Parch":2, "Fare":34.375, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":22, "SibSp":0, "Parch":0, "Fare":8.9625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":23, "SibSp":1, "Parch":0, "Fare":13.9, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":40, "SibSp":1, "Parch":5, "Fare":31.3875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":15, "SibSp":0, "Parch":2, "Fare":39, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":20, "SibSp":0, "Parch":0, "Fare":36.75, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":54, "SibSp":1, "Parch":0, "Fare":55.4417, "Embarked":"C", "CabinClass":"C", "CabinNo":116}
-{"Pclass":2,"Sex":"female", "Age":36, "SibSp":0, "Parch":3, "Fare":39, "Embarked":"S", "CabinClass":"F", "CabinNo":4}
-{"Pclass":1,"Sex":"female", "Age":64, "SibSp":0, "Parch":2, "Fare":83.1583, "Embarked":"C", "CabinClass":"E", "CabinNo":45}
-{"Pclass":2,"Sex":"male", "Age":30, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":37, "SibSp":1, "Parch":1, "Fare":83.1583, "Embarked":"C", "CabinClass":"E", "CabinNo":52}
-{"Pclass":1,"Sex":"female", "Age":18, "SibSp":1, "Parch":0, "Fare":53.1, "Embarked":"S", "CabinClass":"D", "CabinNo":30}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":27, "SibSp":1, "Parch":1, "Fare":247.5208, "Embarked":"C", "CabinClass":"B", "CabinNo":58}
-{"Pclass":2,"Sex":"male", "Age":40, "SibSp":0, "Parch":0, "Fare":16, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":21, "SibSp":0, "Parch":1, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":17, "SibSp":2, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":8, "Parch":2, "Fare":69.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":40, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":34, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":11.5, "SibSp":1, "Parch":1, "Fare":14.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":61, "SibSp":0, "Parch":0, "Fare":12.35, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":8, "SibSp":0, "Parch":2, "Fare":32.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":33, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":6, "SibSp":0, "Parch":2, "Fare":134.5, "Embarked":"C", "CabinClass":"E", "CabinNo":34}
-{"Pclass":3,"Sex":"female", "Age":18, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":23, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":8.1125, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":15.5, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0.33, "SibSp":0, "Parch":2, "Fare":14.4, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":47, "SibSp":1, "Parch":0, "Fare":227.525, "Embarked":"C", "CabinClass":"C", "CabinNo":62}
-{"Pclass":2,"Sex":"female", "Age":8, "SibSp":1, "Parch":1, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":25.7417, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":35, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":33, "SibSp":0, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"A", "CabinNo":11}
-{"Pclass":3,"Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":22.525, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":17, "SibSp":0, "Parch":0, "Fare":73.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":60, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":38, "SibSp":4, "Parch":2, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":42, "SibSp":0, "Parch":0, "Fare":42.5, "Embarked":"S", "CabinClass":"B", "CabinNo":11}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":57, "SibSp":1, "Parch":1, "Fare":164.8667, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":50, "SibSp":1, "Parch":1, "Fare":211.5, "Embarked":"C", "CabinClass":"C", "CabinNo":80}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":30, "SibSp":1, "Parch":0, "Fare":13.8583, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":22, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"F", "CabinNo":33}
-{"Pclass":3,"Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.7958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":53, "SibSp":0, "Parch":0, "Fare":27.4458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":2, "Fare":15.2458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":23, "SibSp":0, "Parch":0, "Fare":7.7958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":40.5, "SibSp":0, "Parch":0, "Fare":15.1, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":36, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":14, "SibSp":0, "Parch":0, "Fare":65, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":21, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":21, "SibSp":1, "Parch":0, "Fare":6.4958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":39, "SibSp":1, "Parch":0, "Fare":71.2833, "Embarked":"C", "CabinClass":"C", "CabinNo":85}
-{"Pclass":3,"Sex":"male", "Age":20, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":64, "SibSp":1, "Parch":0, "Fare":75.25, "Embarked":"C", "CabinClass":"D", "CabinNo":37}
-{"Pclass":3,"Sex":"male", "Age":20, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":18, "SibSp":1, "Parch":1, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":48, "SibSp":1, "Parch":0, "Fare":106.425, "Embarked":"C", "CabinClass":"C", "CabinNo":86}
-{"Pclass":1,"Sex":"female", "Age":55, "SibSp":0, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":45, "SibSp":0, "Parch":2, "Fare":30, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":45, "SibSp":1, "Parch":1, "Fare":134.5, "Embarked":"C", "CabinClass":"E", "CabinNo":34}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":1, "Parch":2, "Fare":23.45, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":41, "SibSp":1, "Parch":0, "Fare":51.8625, "Embarked":"S", "CabinClass":"D", "CabinNo":21}
-{"Pclass":2,"Sex":"female", "Age":22, "SibSp":0, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":42, "SibSp":1, "Parch":1, "Fare":32.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":29, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":1, "Parch":0, "Fare":14.4542, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":0.92, "SibSp":1, "Parch":2, "Fare":27.75, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":20, "SibSp":0, "Parch":0, "Fare":7.925, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":27, "SibSp":1, "Parch":0, "Fare":136.7792, "Embarked":"C", "CabinClass":"C", "CabinNo":89}
-{"Pclass":3,"Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":9.325, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":32.5, "SibSp":0, "Parch":0, "Fare":9.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":28, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":19, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":36.5, "SibSp":1, "Parch":0, "Fare":17.4, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":29, "SibSp":0, "Parch":2, "Fare":23, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":1, "SibSp":1, "Parch":1, "Fare":12.1833, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":30, "SibSp":0, "Parch":0, "Fare":12.7375, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":0, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":17, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":46, "SibSp":0, "Parch":0, "Fare":75.2417, "Embarked":"C", "CabinClass":"C", "CabinNo":6}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":26, "SibSp":1, "Parch":0, "Fare":136.7792, "Embarked":"C", "CabinClass":"C", "CabinNo":89}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":1, "Parch":0, "Fare":15.5, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":20, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":28, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":40, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":30, "SibSp":1, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":22, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":23, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0.75, "SibSp":1, "Parch":1, "Fare":13.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":9, "SibSp":1, "Parch":1, "Fare":15.2458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":2, "SibSp":1, "Parch":1, "Fare":20.2125, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":36, "SibSp":0, "Parch":0, "Fare":7.25, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.25, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":24, "SibSp":1, "Parch":0, "Fare":82.2667, "Embarked":"S", "CabinClass":"B", "CabinNo":45}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"F", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":39.6, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":30, "SibSp":0, "Parch":0, "Fare":6.95, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":53, "SibSp":1, "Parch":1, "Fare":81.8583, "Embarked":"S", "CabinClass":"A", "CabinNo":34}
-{"Pclass":3,"Sex":"male", "Age":36, "SibSp":0, "Parch":0, "Fare":9.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":1, "SibSp":1, "Parch":2, "Fare":41.5792, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":2, "Parch":0, "Fare":21.6792, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":30, "SibSp":0, "Parch":0, "Fare":45.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":29, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":15.0458, "Embarked":"C", "CabinClass":"D", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":43, "SibSp":0, "Parch":1, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":64, "SibSp":1, "Parch":1, "Fare":26.55, "Embarked":"S", "CabinClass":"B", "CabinNo":26}
-{"Pclass":1,"Sex":"male", "Age":30, "SibSp":1, "Parch":2, "Fare":151.55, "Embarked":"S", "CabinClass":"C", "CabinNo":22}
-{"Pclass":3,"Sex":"male", "Age":0.83, "SibSp":0, "Parch":1, "Fare":9.35, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":55, "SibSp":1, "Parch":1, "Fare":93.5, "Embarked":"S", "CabinClass":"B", "CabinNo":69}
-{"Pclass":3,"Sex":"female", "Age":45, "SibSp":1, "Parch":0, "Fare":14.1083, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":18, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":22, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.575, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":37, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":55, "SibSp":0, "Parch":0, "Fare":135.6333, "Embarked":"C", "CabinClass":"C", "CabinNo":32}
-{"Pclass":3,"Sex":"female", "Age":17, "SibSp":0, "Parch":0, "Fare":7.7333, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":57, "SibSp":1, "Parch":0, "Fare":146.5208, "Embarked":"C", "CabinClass":"B", "CabinNo":78}
-{"Pclass":2,"Sex":"male", "Age":19, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":22, "SibSp":2, "Parch":0, "Fare":31.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"F", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"F", "CabinNo":2}
-{"Pclass":1,"Sex":"male", "Age":33, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":39, "SibSp":0, "Parch":0, "Fare":211.3375, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":23, "SibSp":0, "Parch":0, "Fare":7.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":12, "SibSp":2, "Parch":1, "Fare":39, "Embarked":"S", "CabinClass":"F", "CabinNo":4}
-{"Pclass":1,"Sex":"male", "Age":46, "SibSp":0, "Parch":0, "Fare":79.2, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":29, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":48, "SibSp":0, "Parch":2, "Fare":36.75, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":39, "SibSp":0, "Parch":0, "Fare":29.7, "Embarked":"C", "CabinClass":"A", "CabinNo":18}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":19, "SibSp":1, "Parch":1, "Fare":15.7417, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":30, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"C", "CabinNo":106}
-{"Pclass":2,"Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":39, "SibSp":0, "Parch":2, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":31.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":18, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":7.5792, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":1, "Parch":9, "Fare":69.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":58, "SibSp":0, "Parch":1, "Fare":512.3292, "Embarked":"C", "CabinClass":"B", "CabinNo":51}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":1, "Parch":1, "Fare":14.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":16, "SibSp":0, "Parch":0, "Fare":7.65, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":38, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":13.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":31, "SibSp":0, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":45, "SibSp":0, "Parch":1, "Fare":63.3583, "Embarked":"C", "CabinClass":"D", "CabinNo":10}
-{"Pclass":2,"Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":18, "SibSp":0, "Parch":0, "Fare":73.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":49, "SibSp":1, "Parch":2, "Fare":65, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0.17, "SibSp":1, "Parch":2, "Fare":20.575, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":50, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"E", "CabinNo":60}
-{"Pclass":1,"Sex":"female", "Age":59, "SibSp":2, "Parch":0, "Fare":51.4792, "Embarked":"S", "CabinClass":"C", "CabinNo":101}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":30, "SibSp":1, "Parch":0, "Fare":15.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":14.5, "SibSp":8, "Parch":2, "Fare":69.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":24, "SibSp":1, "Parch":1, "Fare":37.0042, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":31, "SibSp":0, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":25, "SibSp":1, "Parch":0, "Fare":55.4417, "Embarked":"C", "CabinClass":"E", "CabinNo":50}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":1, "Parch":9, "Fare":69.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":1, "Parch":0, "Fare":14.4583, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":22, "SibSp":0, "Parch":0, "Fare":39.6875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":45, "SibSp":0, "Parch":1, "Fare":59.4, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":29, "SibSp":0, "Parch":0, "Fare":13.8583, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":21, "SibSp":1, "Parch":0, "Fare":11.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":31, "SibSp":0, "Parch":0, "Fare":134.5, "Embarked":"C", "CabinClass":"E", "CabinNo":39}
-{"Pclass":1,"Sex":"male", "Age":49, "SibSp":0, "Parch":0, "Fare":0, "Embarked":"S", "CabinClass":"B", "CabinNo":52}
-{"Pclass":2,"Sex":"male", "Age":44, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":54, "SibSp":1, "Parch":1, "Fare":81.8583, "Embarked":"S", "CabinClass":"A", "CabinNo":34}
-{"Pclass":1,"Sex":"female", "Age":45, "SibSp":0, "Parch":0, "Fare":262.375, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":22, "SibSp":2, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":11.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":55, "SibSp":0, "Parch":0, "Fare":50, "Embarked":"S", "CabinClass":"C", "CabinNo":39}
-{"Pclass":3,"Sex":"male", "Age":5, "SibSp":4, "Parch":2, "Fare":31.3875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":14.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":19, "SibSp":1, "Parch":0, "Fare":16.1, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":12.875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"female", "Age":24, "SibSp":1, "Parch":2, "Fare":65, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":57, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":6, "SibSp":3, "Parch":1, "Fare":21.075, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":23, "SibSp":0, "Parch":0, "Fare":93.5, "Embarked":"S", "CabinClass":"B", "CabinNo":24}
-{"Pclass":1,"Sex":"female", "Age":51, "SibSp":0, "Parch":1, "Fare":39.4, "Embarked":"S", "CabinClass":"D", "CabinNo":28}
-{"Pclass":3,"Sex":"male", "Age":13, "SibSp":0, "Parch":2, "Fare":20.25, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":2,"Sex":"male", "Age":47, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":29, "SibSp":3, "Parch":1, "Fare":22.025, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":18, "SibSp":1, "Parch":0, "Fare":60, "Embarked":"S", "CabinClass":"C", "CabinNo":31}
-{"Pclass":3,"Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":7.25, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":48, "SibSp":1, "Parch":1, "Fare":79.2, "Embarked":"C", "CabinClass":"B", "CabinNo":41}
-{"Pclass":3,"Sex":"male", "Age":22, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":31, "SibSp":0, "Parch":0, "Fare":7.7333, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":30, "SibSp":0, "Parch":0, "Fare":164.8667, "Embarked":"S", "CabinClass":"C", "CabinNo":7}
-{"Pclass":2,"Sex":"male", "Age":38, "SibSp":1, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":22, "SibSp":0, "Parch":1, "Fare":59.4, "Embarked":"C", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":17, "SibSp":0, "Parch":0, "Fare":47.1, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":43, "SibSp":1, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"D", "CabinNo":40}
-{"Pclass":2,"Sex":"male", "Age":20, "SibSp":0, "Parch":0, "Fare":13.8625, "Embarked":"C", "CabinClass":"D", "CabinNo":38}
-{"Pclass":2,"Sex":"male", "Age":23, "SibSp":1, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"male", "Age":50, "SibSp":1, "Parch":1, "Fare":211.5, "Embarked":"C", "CabinClass":"C", "CabinNo":80}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.7208, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":3, "SibSp":1, "Parch":1, "Fare":13.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":37, "SibSp":1, "Parch":0, "Fare":90, "Embarked":"Q", "CabinClass":"C", "CabinNo":78}
-{"Pclass":3,"Sex":"female", "Age":28, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":1,"Sex":"female", "Age":39, "SibSp":0, "Parch":0, "Fare":108.9, "Embarked":"C", "CabinClass":"C", "CabinNo":105}
-{"Pclass":3,"Sex":"male", "Age":38.5, "SibSp":0, "Parch":0, "Fare":7.25, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
-{"Pclass":3,"Sex":"male", "Age":0, "SibSp":1, "Parch":1, "Fare":22.3583, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":34.5, "SibSp":0, "Parch":0, "Fare":7.8292, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":47, "SibSp":1, "Parch":0, "Fare":7, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":62, "SibSp":0, "Parch":0, "Fare":9.6875, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":22, "SibSp":1, "Parch":1, "Fare":12.2875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":14, "SibSp":0, "Parch":0, "Fare":9.225, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":30, "SibSp":0, "Parch":0, "Fare":7.6292, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":26, "SibSp":1, "Parch":1, "Fare":29, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":18, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":21, "SibSp":2, "Parch":0, "Fare":24.15, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":46, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":23, "SibSp":1, "Parch":0, "Fare":82.2667, "Embarked":"S", "CabinClass":"B", "CabinNo":45}
+{"Pclass":2, "Sex":"male", "Age":63, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":47, "SibSp":1, "Parch":0, "Fare":61.175, "Embarked":"S", "CabinClass":"E", "CabinNo":31}
+{"Pclass":2, "Sex":"female", "Age":24, "SibSp":1, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":35, "SibSp":0, "Parch":0, "Fare":12.35, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":27, "SibSp":1, "Parch":0, "Fare":7.925, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":45, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":55, "SibSp":1, "Parch":0, "Fare":59.4, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":9, "SibSp":0, "Parch":1, "Fare":3.1708, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":31.6833, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":21, "SibSp":0, "Parch":1, "Fare":61.3792, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":48, "SibSp":1, "Parch":3, "Fare":262.375, "Embarked":"C", "CabinClass":"B", "CabinNo":57}
+{"Pclass":3, "Sex":"male", "Age":50, "SibSp":1, "Parch":0, "Fare":14.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":22, "SibSp":0, "Parch":1, "Fare":61.9792, "Embarked":"C", "CabinClass":"B", "CabinNo":36}
+{"Pclass":3, "Sex":"male", "Age":22.5, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":41, "SibSp":0, "Parch":0, "Fare":30.5, "Embarked":"S", "CabinClass":"A", "CabinNo":21}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":2, "Parch":0, "Fare":21.6792, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":50, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":24, "SibSp":2, "Parch":0, "Fare":31.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":33, "SibSp":1, "Parch":2, "Fare":20.575, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":1, "Parch":2, "Fare":23.45, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":30, "SibSp":1, "Parch":0, "Fare":57.75, "Embarked":"C", "CabinClass":"C", "CabinNo":78}
+{"Pclass":3, "Sex":"male", "Age":18.5, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":21, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":9.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":56.4958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":39, "SibSp":0, "Parch":1, "Fare":13.4167, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"D", "CabinNo":34}
+{"Pclass":3, "Sex":"male", "Age":41, "SibSp":0, "Parch":0, "Fare":7.85, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":30, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":45, "SibSp":1, "Parch":0, "Fare":52.5542, "Embarked":"S", "CabinClass":"D", "CabinNo":19}
+{"Pclass":3, "Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":7.925, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":45, "SibSp":0, "Parch":0, "Fare":29.7, "Embarked":"C", "CabinClass":"A", "CabinNo":9}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":60, "SibSp":0, "Parch":0, "Fare":76.2917, "Embarked":"C", "CabinClass":"D", "CabinNo":15}
+{"Pclass":3, "Sex":"female", "Age":36, "SibSp":0, "Parch":2, "Fare":15.9, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":24, "SibSp":1, "Parch":0, "Fare":60, "Embarked":"S", "CabinClass":"C", "CabinNo":31}
+{"Pclass":2, "Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":15.0333, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":20, "SibSp":2, "Parch":1, "Fare":23, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":28, "SibSp":3, "Parch":2, "Fare":263, "Embarked":"S", "CabinClass":"C", "CabinNo":23}
+{"Pclass":2, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":15.5792, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":10, "SibSp":4, "Parch":1, "Fare":29.125, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":35, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":7.65, "Embarked":"S", "CabinClass":"F", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":1, "Parch":0, "Fare":16.1, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":36, "SibSp":0, "Parch":0, "Fare":262.375, "Embarked":"C", "CabinClass":"B", "CabinNo":61}
+{"Pclass":3, "Sex":"male", "Age":17, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":13.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":18, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":22, "SibSp":0, "Parch":0, "Fare":7.725, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":13, "SibSp":2, "Parch":2, "Fare":262.375, "Embarked":"C", "CabinClass":"B", "CabinNo":57}
+{"Pclass":2, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":18, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":47, "SibSp":0, "Parch":0, "Fare":42.4, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":31, "SibSp":0, "Parch":0, "Fare":28.5375, "Embarked":"C", "CabinClass":"C", "CabinNo":53}
+{"Pclass":1, "Sex":"female", "Age":60, "SibSp":1, "Parch":4, "Fare":263, "Embarked":"S", "CabinClass":"C", "CabinNo":23}
+{"Pclass":3, "Sex":"female", "Age":24, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":29, "SibSp":0, "Parch":0, "Fare":7.925, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":28.5, "SibSp":0, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"D", "CabinNo":43}
+{"Pclass":1, "Sex":"female", "Age":35, "SibSp":0, "Parch":0, "Fare":211.5, "Embarked":"C", "CabinClass":"C", "CabinNo":130}
+{"Pclass":1, "Sex":"male", "Age":32.5, "SibSp":0, "Parch":0, "Fare":211.5, "Embarked":"C", "CabinClass":"C", "CabinNo":132}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":55, "SibSp":2, "Parch":0, "Fare":25.7, "Embarked":"S", "CabinClass":"C", "CabinNo":101}
+{"Pclass":2, "Sex":"male", "Age":30, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":24, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":6, "SibSp":1, "Parch":1, "Fare":15.2458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":67, "SibSp":1, "Parch":0, "Fare":221.7792, "Embarked":"S", "CabinClass":"C", "CabinNo":55}
+{"Pclass":1, "Sex":"male", "Age":49, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":10.7083, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":1, "Parch":0, "Fare":14.4542, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":27, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":18, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":2, "SibSp":1, "Parch":1, "Fare":23, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":22, "SibSp":1, "Parch":0, "Fare":13.9, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":27, "SibSp":1, "Parch":2, "Fare":52, "Embarked":"S", "CabinClass":"B", "CabinNo":71}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":7.7958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":76, "SibSp":1, "Parch":0, "Fare":78.85, "Embarked":"S", "CabinClass":"C", "CabinNo":46}
+{"Pclass":3, "Sex":"male", "Age":29, "SibSp":0, "Parch":0, "Fare":7.925, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":20, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":33, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":43, "SibSp":1, "Parch":0, "Fare":55.4417, "Embarked":"C", "CabinClass":"C", "CabinNo":116}
+{"Pclass":2, "Sex":"male", "Age":27, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":16, "SibSp":1, "Parch":1, "Fare":8.5167, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":28, "SibSp":0, "Parch":0, "Fare":22.525, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.8208, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.7125, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":18.5, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"F", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":41, "SibSp":0, "Parch":0, "Fare":15.0458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.7792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":36, "SibSp":0, "Parch":0, "Fare":31.6792, "Embarked":"C", "CabinClass":"A", "CabinNo":29}
+{"Pclass":3, "Sex":"female", "Age":18.5, "SibSp":0, "Parch":0, "Fare":7.2833, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":63, "SibSp":1, "Parch":0, "Fare":221.7792, "Embarked":"S", "CabinClass":"C", "CabinNo":55}
+{"Pclass":3, "Sex":"male", "Age":18, "SibSp":1, "Parch":0, "Fare":14.4542, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":6.4375, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":1, "SibSp":1, "Parch":1, "Fare":16.7, "Embarked":"S", "CabinClass":"G", "CabinNo":6}
+{"Pclass":1, "Sex":"male", "Age":36, "SibSp":0, "Parch":0, "Fare":75.2417, "Embarked":"C", "CabinClass":"C", "CabinNo":6}
+{"Pclass":2, "Sex":"female", "Age":29, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":12, "SibSp":0, "Parch":0, "Fare":15.75, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":1, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":35, "SibSp":1, "Parch":0, "Fare":57.75, "Embarked":"C", "CabinClass":"C", "CabinNo":28}
+{"Pclass":3, "Sex":"male", "Age":28, "SibSp":0, "Parch":0, "Fare":7.25, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":17, "SibSp":0, "Parch":1, "Fare":16.1, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":22, "SibSp":0, "Parch":0, "Fare":7.7958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":2, "Parch":0, "Fare":23.25, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":42, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":53, "SibSp":0, "Parch":0, "Fare":28.5, "Embarked":"C", "CabinClass":"C", "CabinNo":51}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":4, "Fare":25.4667, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":1, "Parch":0, "Fare":6.4375, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":43, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":26.5, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":23, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":40, "SibSp":1, "Parch":6, "Fare":46.9, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":10, "SibSp":5, "Parch":2, "Fare":46.9, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":33, "SibSp":0, "Parch":0, "Fare":151.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":61, "SibSp":1, "Parch":3, "Fare":262.375, "Embarked":"C", "CabinClass":"B", "CabinNo":57}
+{"Pclass":2, "Sex":"male", "Age":28, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":42, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":31, "SibSp":3, "Parch":0, "Fare":18, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":51.8625, "Embarked":"S", "CabinClass":"E", "CabinNo":46}
+{"Pclass":3, "Sex":"male", "Age":22, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":30, "SibSp":1, "Parch":1, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":23, "SibSp":0, "Parch":1, "Fare":83.1583, "Embarked":"C", "CabinClass":"C", "CabinNo":54}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":60.5, "SibSp":0, "Parch":0, "Fare":0, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":36, "SibSp":0, "Parch":2, "Fare":12.1833, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":13, "SibSp":4, "Parch":2, "Fare":31.3875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":7.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":29, "SibSp":0, "Parch":0, "Fare":221.7792, "Embarked":"S", "CabinClass":"C", "CabinNo":97}
+{"Pclass":3, "Sex":"female", "Age":23, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":42, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"D", "CabinNo":22}
+{"Pclass":3, "Sex":"female", "Age":26, "SibSp":0, "Parch":2, "Fare":13.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.7333, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":7, "SibSp":1, "Parch":1, "Fare":15.2458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":26, "SibSp":0, "Parch":0, "Fare":13.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":41, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":26, "SibSp":1, "Parch":1, "Fare":22.025, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":48, "SibSp":0, "Parch":0, "Fare":50.4958, "Embarked":"C", "CabinClass":"B", "CabinNo":10}
+{"Pclass":3, "Sex":"male", "Age":18, "SibSp":2, "Parch":2, "Fare":34.375, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":22, "SibSp":0, "Parch":0, "Fare":8.9625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":23, "SibSp":1, "Parch":0, "Fare":13.9, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":40, "SibSp":1, "Parch":5, "Fare":31.3875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":15, "SibSp":0, "Parch":2, "Fare":39, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":20, "SibSp":0, "Parch":0, "Fare":36.75, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":54, "SibSp":1, "Parch":0, "Fare":55.4417, "Embarked":"C", "CabinClass":"C", "CabinNo":116}
+{"Pclass":2, "Sex":"female", "Age":36, "SibSp":0, "Parch":3, "Fare":39, "Embarked":"S", "CabinClass":"F", "CabinNo":4}
+{"Pclass":1, "Sex":"female", "Age":64, "SibSp":0, "Parch":2, "Fare":83.1583, "Embarked":"C", "CabinClass":"E", "CabinNo":45}
+{"Pclass":2, "Sex":"male", "Age":30, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":37, "SibSp":1, "Parch":1, "Fare":83.1583, "Embarked":"C", "CabinClass":"E", "CabinNo":52}
+{"Pclass":1, "Sex":"female", "Age":18, "SibSp":1, "Parch":0, "Fare":53.1, "Embarked":"S", "CabinClass":"D", "CabinNo":30}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":27, "SibSp":1, "Parch":1, "Fare":247.5208, "Embarked":"C", "CabinClass":"B", "CabinNo":58}
+{"Pclass":2, "Sex":"male", "Age":40, "SibSp":0, "Parch":0, "Fare":16, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":21, "SibSp":0, "Parch":1, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":17, "SibSp":2, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":8, "Parch":2, "Fare":69.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":40, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":34, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":11.5, "SibSp":1, "Parch":1, "Fare":14.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":61, "SibSp":0, "Parch":0, "Fare":12.35, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":8, "SibSp":0, "Parch":2, "Fare":32.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":33, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":6, "SibSp":0, "Parch":2, "Fare":134.5, "Embarked":"C", "CabinClass":"E", "CabinNo":34}
+{"Pclass":3, "Sex":"female", "Age":18, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":23, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":8.1125, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":15.5, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0.33, "SibSp":0, "Parch":2, "Fare":14.4, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":47, "SibSp":1, "Parch":0, "Fare":227.525, "Embarked":"C", "CabinClass":"C", "CabinNo":62}
+{"Pclass":2, "Sex":"female", "Age":8, "SibSp":1, "Parch":1, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":25.7417, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":35, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":33, "SibSp":0, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"A", "CabinNo":11}
+{"Pclass":3, "Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":22.525, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":17, "SibSp":0, "Parch":0, "Fare":73.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":60, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":38, "SibSp":4, "Parch":2, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":42, "SibSp":0, "Parch":0, "Fare":42.5, "Embarked":"S", "CabinClass":"B", "CabinNo":11}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":57, "SibSp":1, "Parch":1, "Fare":164.8667, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":50, "SibSp":1, "Parch":1, "Fare":211.5, "Embarked":"C", "CabinClass":"C", "CabinNo":80}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":30, "SibSp":1, "Parch":0, "Fare":13.8583, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":22, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"F", "CabinNo":33}
+{"Pclass":3, "Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.7958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":53, "SibSp":0, "Parch":0, "Fare":27.4458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":2, "Fare":15.2458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":23, "SibSp":0, "Parch":0, "Fare":7.7958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":40.5, "SibSp":0, "Parch":0, "Fare":15.1, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":36, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":14, "SibSp":0, "Parch":0, "Fare":65, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":21, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":21, "SibSp":1, "Parch":0, "Fare":6.4958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":39, "SibSp":1, "Parch":0, "Fare":71.2833, "Embarked":"C", "CabinClass":"C", "CabinNo":85}
+{"Pclass":3, "Sex":"male", "Age":20, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":64, "SibSp":1, "Parch":0, "Fare":75.25, "Embarked":"C", "CabinClass":"D", "CabinNo":37}
+{"Pclass":3, "Sex":"male", "Age":20, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":18, "SibSp":1, "Parch":1, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":48, "SibSp":1, "Parch":0, "Fare":106.425, "Embarked":"C", "CabinClass":"C", "CabinNo":86}
+{"Pclass":1, "Sex":"female", "Age":55, "SibSp":0, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":45, "SibSp":0, "Parch":2, "Fare":30, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":45, "SibSp":1, "Parch":1, "Fare":134.5, "Embarked":"C", "CabinClass":"E", "CabinNo":34}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":1, "Parch":2, "Fare":23.45, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":41, "SibSp":1, "Parch":0, "Fare":51.8625, "Embarked":"S", "CabinClass":"D", "CabinNo":21}
+{"Pclass":2, "Sex":"female", "Age":22, "SibSp":0, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":42, "SibSp":1, "Parch":1, "Fare":32.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":29, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":1, "Parch":0, "Fare":14.4542, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":0.92, "SibSp":1, "Parch":2, "Fare":27.75, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":20, "SibSp":0, "Parch":0, "Fare":7.925, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":27, "SibSp":1, "Parch":0, "Fare":136.7792, "Embarked":"C", "CabinClass":"C", "CabinNo":89}
+{"Pclass":3, "Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":9.325, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":32.5, "SibSp":0, "Parch":0, "Fare":9.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":28, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":19, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":36.5, "SibSp":1, "Parch":0, "Fare":17.4, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":29, "SibSp":0, "Parch":2, "Fare":23, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":1, "SibSp":1, "Parch":1, "Fare":12.1833, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":30, "SibSp":0, "Parch":0, "Fare":12.7375, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":0, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":17, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":46, "SibSp":0, "Parch":0, "Fare":75.2417, "Embarked":"C", "CabinClass":"C", "CabinNo":6}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":26, "SibSp":1, "Parch":0, "Fare":136.7792, "Embarked":"C", "CabinClass":"C", "CabinNo":89}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":1, "Parch":0, "Fare":15.5, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":20, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":28, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":40, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":30, "SibSp":1, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":22, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":23, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0.75, "SibSp":1, "Parch":1, "Fare":13.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":9, "SibSp":1, "Parch":1, "Fare":15.2458, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":2, "SibSp":1, "Parch":1, "Fare":20.2125, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":36, "SibSp":0, "Parch":0, "Fare":7.25, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.25, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":24, "SibSp":1, "Parch":0, "Fare":82.2667, "Embarked":"S", "CabinClass":"B", "CabinNo":45}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"F", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":39.6, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":30, "SibSp":0, "Parch":0, "Fare":6.95, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":53, "SibSp":1, "Parch":1, "Fare":81.8583, "Embarked":"S", "CabinClass":"A", "CabinNo":34}
+{"Pclass":3, "Sex":"male", "Age":36, "SibSp":0, "Parch":0, "Fare":9.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":1, "SibSp":1, "Parch":2, "Fare":41.5792, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":2, "Parch":0, "Fare":21.6792, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":30, "SibSp":0, "Parch":0, "Fare":45.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":29, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":15.0458, "Embarked":"C", "CabinClass":"D", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":43, "SibSp":0, "Parch":1, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":64, "SibSp":1, "Parch":1, "Fare":26.55, "Embarked":"S", "CabinClass":"B", "CabinNo":26}
+{"Pclass":1, "Sex":"male", "Age":30, "SibSp":1, "Parch":2, "Fare":151.55, "Embarked":"S", "CabinClass":"C", "CabinNo":22}
+{"Pclass":3, "Sex":"male", "Age":0.83, "SibSp":0, "Parch":1, "Fare":9.35, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":55, "SibSp":1, "Parch":1, "Fare":93.5, "Embarked":"S", "CabinClass":"B", "CabinNo":69}
+{"Pclass":3, "Sex":"female", "Age":45, "SibSp":1, "Parch":0, "Fare":14.1083, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":18, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":22, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.575, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":37, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":55, "SibSp":0, "Parch":0, "Fare":135.6333, "Embarked":"C", "CabinClass":"C", "CabinNo":32}
+{"Pclass":3, "Sex":"female", "Age":17, "SibSp":0, "Parch":0, "Fare":7.7333, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":57, "SibSp":1, "Parch":0, "Fare":146.5208, "Embarked":"C", "CabinClass":"B", "CabinNo":78}
+{"Pclass":2, "Sex":"male", "Age":19, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":7.8542, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":22, "SibSp":2, "Parch":0, "Fare":31.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"F", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"F", "CabinNo":2}
+{"Pclass":1, "Sex":"male", "Age":33, "SibSp":0, "Parch":0, "Fare":26.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":39, "SibSp":0, "Parch":0, "Fare":211.3375, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":23, "SibSp":0, "Parch":0, "Fare":7.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":12, "SibSp":2, "Parch":1, "Fare":39, "Embarked":"S", "CabinClass":"F", "CabinNo":4}
+{"Pclass":1, "Sex":"male", "Age":46, "SibSp":0, "Parch":0, "Fare":79.2, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":29, "SibSp":1, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":48, "SibSp":0, "Parch":2, "Fare":36.75, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":39, "SibSp":0, "Parch":0, "Fare":29.7, "Embarked":"C", "CabinClass":"A", "CabinNo":18}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.225, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":19, "SibSp":1, "Parch":1, "Fare":15.7417, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":7.8958, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":30, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"C", "CabinNo":106}
+{"Pclass":2, "Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":39, "SibSp":0, "Parch":2, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":31.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":18, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":32, "SibSp":0, "Parch":0, "Fare":7.5792, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":1, "Parch":9, "Fare":69.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":58, "SibSp":0, "Parch":1, "Fare":512.3292, "Embarked":"C", "CabinClass":"B", "CabinNo":51}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":1, "Parch":1, "Fare":14.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":16, "SibSp":0, "Parch":0, "Fare":7.65, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":38, "SibSp":0, "Parch":0, "Fare":7.2292, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":13.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":31, "SibSp":0, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":45, "SibSp":0, "Parch":1, "Fare":63.3583, "Embarked":"C", "CabinClass":"D", "CabinNo":10}
+{"Pclass":2, "Sex":"male", "Age":25, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":18, "SibSp":0, "Parch":0, "Fare":73.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":49, "SibSp":1, "Parch":2, "Fare":65, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0.17, "SibSp":1, "Parch":2, "Fare":20.575, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":50, "SibSp":0, "Parch":0, "Fare":26, "Embarked":"S", "CabinClass":"E", "CabinNo":60}
+{"Pclass":1, "Sex":"female", "Age":59, "SibSp":2, "Parch":0, "Fare":51.4792, "Embarked":"S", "CabinClass":"C", "CabinNo":101}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":30, "SibSp":1, "Parch":0, "Fare":15.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":14.5, "SibSp":8, "Parch":2, "Fare":69.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":24, "SibSp":1, "Parch":1, "Fare":37.0042, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":31, "SibSp":0, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":27, "SibSp":0, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":25, "SibSp":1, "Parch":0, "Fare":55.4417, "Embarked":"C", "CabinClass":"E", "CabinNo":50}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":1, "Parch":9, "Fare":69.55, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":1, "Parch":0, "Fare":14.4583, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":22, "SibSp":0, "Parch":0, "Fare":39.6875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":45, "SibSp":0, "Parch":1, "Fare":59.4, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":29, "SibSp":0, "Parch":0, "Fare":13.8583, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":21, "SibSp":1, "Parch":0, "Fare":11.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":31, "SibSp":0, "Parch":0, "Fare":134.5, "Embarked":"C", "CabinClass":"E", "CabinNo":39}
+{"Pclass":1, "Sex":"male", "Age":49, "SibSp":0, "Parch":0, "Fare":0, "Embarked":"S", "CabinClass":"B", "CabinNo":52}
+{"Pclass":2, "Sex":"male", "Age":44, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":54, "SibSp":1, "Parch":1, "Fare":81.8583, "Embarked":"S", "CabinClass":"A", "CabinNo":34}
+{"Pclass":1, "Sex":"female", "Age":45, "SibSp":0, "Parch":0, "Fare":262.375, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":22, "SibSp":2, "Parch":0, "Fare":8.6625, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":11.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":55, "SibSp":0, "Parch":0, "Fare":50, "Embarked":"S", "CabinClass":"C", "CabinNo":39}
+{"Pclass":3, "Sex":"male", "Age":5, "SibSp":4, "Parch":2, "Fare":31.3875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":26, "SibSp":0, "Parch":0, "Fare":7.8792, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":14.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":19, "SibSp":1, "Parch":0, "Fare":16.1, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":12.875, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"female", "Age":24, "SibSp":1, "Parch":2, "Fare":65, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":57, "SibSp":0, "Parch":0, "Fare":13, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":21, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":6, "SibSp":3, "Parch":1, "Fare":21.075, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":23, "SibSp":0, "Parch":0, "Fare":93.5, "Embarked":"S", "CabinClass":"B", "CabinNo":24}
+{"Pclass":1, "Sex":"female", "Age":51, "SibSp":0, "Parch":1, "Fare":39.4, "Embarked":"S", "CabinClass":"D", "CabinNo":28}
+{"Pclass":3, "Sex":"male", "Age":13, "SibSp":0, "Parch":2, "Fare":20.25, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":2, "Sex":"male", "Age":47, "SibSp":0, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":29, "SibSp":3, "Parch":1, "Fare":22.025, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":18, "SibSp":1, "Parch":0, "Fare":60, "Embarked":"S", "CabinClass":"C", "CabinNo":31}
+{"Pclass":3, "Sex":"male", "Age":24, "SibSp":0, "Parch":0, "Fare":7.25, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":48, "SibSp":1, "Parch":1, "Fare":79.2, "Embarked":"C", "CabinClass":"B", "CabinNo":41}
+{"Pclass":3, "Sex":"male", "Age":22, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":31, "SibSp":0, "Parch":0, "Fare":7.7333, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":30, "SibSp":0, "Parch":0, "Fare":164.8667, "Embarked":"S", "CabinClass":"C", "CabinNo":7}
+{"Pclass":2, "Sex":"male", "Age":38, "SibSp":1, "Parch":0, "Fare":21, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":22, "SibSp":0, "Parch":1, "Fare":59.4, "Embarked":"C", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":17, "SibSp":0, "Parch":0, "Fare":47.1, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":43, "SibSp":1, "Parch":0, "Fare":27.7208, "Embarked":"C", "CabinClass":"D", "CabinNo":40}
+{"Pclass":2, "Sex":"male", "Age":20, "SibSp":0, "Parch":0, "Fare":13.8625, "Embarked":"C", "CabinClass":"D", "CabinNo":38}
+{"Pclass":2, "Sex":"male", "Age":23, "SibSp":1, "Parch":0, "Fare":10.5, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"male", "Age":50, "SibSp":1, "Parch":1, "Fare":211.5, "Embarked":"C", "CabinClass":"C", "CabinNo":80}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.7208, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":3, "SibSp":1, "Parch":1, "Fare":13.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"female", "Age":0, "SibSp":0, "Parch":0, "Fare":7.75, "Embarked":"Q", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":37, "SibSp":1, "Parch":0, "Fare":90, "Embarked":"Q", "CabinClass":"C", "CabinNo":78}
+{"Pclass":3, "Sex":"female", "Age":28, "SibSp":0, "Parch":0, "Fare":7.775, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":1, "Sex":"female", "Age":39, "SibSp":0, "Parch":0, "Fare":108.9, "Embarked":"C", "CabinClass":"C", "CabinNo":105}
+{"Pclass":3, "Sex":"male", "Age":38.5, "SibSp":0, "Parch":0, "Fare":7.25, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":0, "Parch":0, "Fare":8.05, "Embarked":"S", "CabinClass":"", "CabinNo":0}
+{"Pclass":3, "Sex":"male", "Age":0, "SibSp":1, "Parch":1, "Fare":22.3583, "Embarked":"C", "CabinClass":"", "CabinNo":0}
