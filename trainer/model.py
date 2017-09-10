@@ -3,8 +3,8 @@ import tensorflow as tf
 # Define the format of your input data including unused columns
 CSV_COLUMNS = ['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex',
                'Age', 'SibSp', 'Parch', 'Ticket', 'Fare',
-               'Cabin', 'Embarked']
-CSV_COLUMN_DEFAULTS = [[0], [''], [0], [''], [''], [0.], [0], [0], [''], [0.], [''], ['']]
+               'Cabin', 'Embarked','CabinClass','CabinNo']
+CSV_COLUMN_DEFAULTS = [[0], [''], [0], [''], [''], [0.], [0], [0], [''], [0.], [''], [''], [''], [0]]
 LABEL_COLUMN = 'Survived'
 LABELS = ['0', '1']
 
@@ -28,6 +28,12 @@ INPUT_COLUMNS = [
         'Parch',
         [0, 1, 2, 3]),
     # Feature for cabin
+    # Screening the values
+    # cat data/train.data.csv | cut -d, -f12 | sort | uniq
+    tf.feature_column.categorical_column_width_vocabulary_list(
+        'CabinClass',
+        ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'T']
+    ),
     tf.feature_column.categorical_column_with_vocabulary_list(
         'Embarked',
         ['S', 'C', ' Q']),
@@ -36,6 +42,7 @@ INPUT_COLUMNS = [
     # Continuous base columns.
     tf.feature_column.numeric_column('Age'),
     tf.feature_column.numeric_column('Fare'),
+    tf.feature_column.numeric_column('CabinNo')
 ]
 
 UNUSED_COLUMNS = set(CSV_COLUMNS) - {col.name for col in INPUT_COLUMNS} - {LABEL_COLUMN}
@@ -69,46 +76,54 @@ def build_estimator(config, embedding_size=8, hidden_units=None):
     Returns:
     A DNNCombinedLinearClassifier
     """
-    (p_class, sex, sibling, parent, embarked, age, fare) = INPUT_COLUMNS
+    (p_class, sex, sibling, parent, cabin_class, embarked, age, fare, cabin_no) = INPUT_COLUMNS
     """Build an estimator."""
 
     # Reused Transformations.
     # Continuous columns can be converted to categorical via bucketization
     age_buckets = tf.feature_column.bucketized_column(
-      age, boundaries=[18, 25, 30, 35, 40, 45, 50, 55, 60, 65])
-
+      age, boundaries=[10, 20, 30, 35, 40, 45, 50, 55, 60, 65])
+    cabin_buckets = tf.feature_column.bucketized_column(
+        cabin_no, boundaries=[10, 30, 50, 70, 90, 110])
     # Wide columns and deep columns.
     wide_columns = [
-      # Interactions between different categorical features can also
-      # be added as new virtual features.
-      tf.feature_column.crossed_column(
+        # Interactions between different categorical features can also
+        # be added as new virtual features.
+        tf.feature_column.crossed_column(
           ['Pclass', 'Embarked'], hash_bucket_size=int(1e4)),
-      tf.feature_column.crossed_column(
+        tf.feature_column.crossed_column(
           [age_buckets, sex], hash_bucket_size=int(1e4)),
-      # tf.feature_column.crossed_column(
-      #    ['native_country', 'occupation'], hash_bucket_size=int(1e4)),
-      p_class,
-      sex,
-      sibling,
-      parent,
-      embarked,
-      age_buckets
+        tf.feature_column.crossed_column(
+            [cabin_class, cabin_buckets], hash_bucket_size=int(1e4)),
+        tf.feature_column.crossed_column(
+            [cabin_class, cabin_buckets, parent], hash_bucket_size=int(1e6)),
+        tf.feature_column.crossed_column(
+            [cabin_class, cabin_buckets, sibling], hash_bucket_size=int(1e6)),
+        p_class,
+        sex,
+        sibling,
+        parent,
+        embarked,
+        age_buckets,
+        cabin_class,
+        cabin_buckets
     ]
 
     deep_columns = [
-      # Use indicator columns for low dimensional vocabularies
-      tf.feature_column.indicator_column(p_class),
-      tf.feature_column.indicator_column(sex),
-      tf.feature_column.indicator_column(sibling),
-      tf.feature_column.indicator_column(parent),
-      tf.feature_column.indicator_column(embarked),
+        # Use indicator columns for low dimensional vocabularies
+        tf.feature_column.indicator_column(p_class),
+        tf.feature_column.indicator_column(sex),
+        tf.feature_column.indicator_column(sibling),
+        tf.feature_column.indicator_column(parent),
+        tf.feature_column.indicator_column(embarked),
 
-      # Use embedding columns for high dimensional vocabularies
-      # tf.feature_column.embedding_column(
-      #    native_country, dimension=embedding_size),
-      # tf.feature_column.embedding_column(occupation, dimension=embedding_size),
-      age,
-      fare
+        # Use embedding columns for high dimensional vocabularies
+        # tf.feature_column.embedding_column(
+        #    native_country, dimension=embedding_size),
+        # tf.feature_column.embedding_column(occupation, dimension=embedding_size),
+        age,
+        fare,
+        cabin_no
     ]
 
     return tf.contrib.learn.DNNLinearCombinedClassifier(
