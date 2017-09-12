@@ -25,3 +25,14 @@ gcloud ml-engine local predict \
 --json-instances \
 data/test.json > output.cabin.txt
 
+# deploy to GCP as a new version
+gcloud ml-engine versions create v2 --model=titanic --origin=$MODEL_BINARIES --staging-bucket=gs://titanic-model
+# Create Version failed. Bad model detected with error: "Error loading the model: Could not load model. "
+
+# send a prediction to GCP version
+gcloud ml-engine predict \
+--model titanic \
+--version v2 \
+--json-instances \
+data/test.json
+
