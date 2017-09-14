@@ -14,6 +14,7 @@ line = reader.readline()
 
 while line:
     col = line.rstrip().split(',')
+    title = col[3].strip().split(' ')[0]
     pclass = col[1]
     sex = col[4]
     age = col[5] if col[5] != "" else 0
@@ -26,8 +27,10 @@ while line:
     cabin_no = cabin_no if is_int(cabin_no) else 0
     embarked = col[11]
 
-    json = '{{"Pclass":{}, "Sex":"{}", "Age":{}, "SibSp":{}, "Parch":{}, "Fare":{}, "Embarked":"{}", "CabinClass":"{}"' \
-           ', "CabinNo":{}}}\n'.format(pclass, sex, age, sibsp, parch, fare, embarked, cabin_class, cabin_no)
+    json = '{{"Pclass":{}, "Sex":"{}", "Age":{}, "SibSp":{}, "Parch":{}, "Fare":{}, "Embarked":"{}", ' \
+           '"CabinClass":"{}", "CabinNo":{}, "Title":"{}"}}\n'\
+        .format(pclass, sex, age, sibsp, parch, fare, embarked, cabin_class, cabin_no, title)
+
     writer.write(json)
 
     line = reader.readline()

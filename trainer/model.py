@@ -3,10 +3,10 @@ import tensorflow as tf
 # Define the format of your input data including unused columns
 CSV_COLUMNS = ['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex',
                'Age', 'SibSp', 'Parch', 'Ticket', 'Fare',
-               'Cabin', 'Embarked','CabinClass','CabinNo']
+               'Cabin', 'Embarked','CabinClass','CabinNo', 'Title']
 
 # TODO: Define better defaults
-CSV_COLUMN_DEFAULTS = [[0], [''], [0], [''], [''], [0.], [0], [0], [''], [0.], [''], [''], [''], [0]]
+CSV_COLUMN_DEFAULTS = [[0], [''], [0], [''], [''], [0.], [0], [0], [''], [0.], [''], [''], [''], [0], ['']]
 LABEL_COLUMN = 'Survived'
 LABELS = ['0', '1']
 
@@ -38,6 +38,9 @@ INPUT_COLUMNS = [
     tf.feature_column.categorical_column_with_vocabulary_list(
         'Embarked',
         ['S', 'C', ' Q']),
+    tf.feature_column.categorical_column_with_vocabulary_list(
+        'Title',
+        ['Mr.', 'Mrs.', 'Miss.', 'Master.', 'Dr.', 'Captain.', 'Mlle.', 'Col.', 'Rev.']),
 
 
     # Continuous base columns.
@@ -77,15 +80,14 @@ def build_estimator(config, embedding_size=8, hidden_units=None):
     Returns:
     A DNNCombinedLinearClassifier
     """
-    (p_class, sex, sibling, parent, cabin_class, embarked, age, fare, cabin_no) = INPUT_COLUMNS
+    (p_class, sex, sibling, parent, cabin_class, embarked, title, age, fare, cabin_no) = INPUT_COLUMNS
     """Build an estimator."""
 
     # Reused Transformations.
     # Continuous columns can be converted to categorical via bucketization
     age_buckets = tf.feature_column.bucketized_column(
       age, boundaries=[10, 20, 30, 35, 40, 45, 50, 55, 60, 65])
-    cabin_buckets = tf.feature_column.bucketized_column(
-        cabin_no, boundaries=[10, 30, 50, 70, 90, 110])
+
     # Wide columns and deep columns.
     wide_columns = [
         # Interactions between different categorical features can also
@@ -94,15 +96,14 @@ def build_estimator(config, embedding_size=8, hidden_units=None):
           ['Pclass', 'Embarked'], hash_bucket_size=int(1e4)),
         tf.feature_column.crossed_column(
           [age_buckets, sex], hash_bucket_size=int(1e4)),
-        tf.feature_column.crossed_column(
-            [cabin_class, cabin_buckets], hash_bucket_size=int(1e4)),
         p_class,
         sex,
         sibling,
         parent,
         embarked,
         age_buckets,
-        cabin_class
+        cabin_class,
+        title
     ]
 
     deep_columns = [
