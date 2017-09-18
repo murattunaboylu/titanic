@@ -127,6 +127,7 @@ def build_estimator(config, embedding_size=8, hidden_units=None):
     )'''
 
     return tf.contrib.learn.DNNClassifier(
+        config=config,
         feature_columns=deep_columns,
         hidden_units=[1024, 512, 256],
         optimizer=tf.train.ProximalAdagradOptimizer(
