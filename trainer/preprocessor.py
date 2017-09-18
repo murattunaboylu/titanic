@@ -1,3 +1,7 @@
+import pandas as pd
+import numpy as np
+
+
 # pre-process the input files
 def is_int(s):
     try:
@@ -5,6 +9,16 @@ def is_int(s):
         return True
     except ValueError:
         return False
+
+# Fill the missing age values by using the mean both on train and test data sets
+train = pd.read_csv('../data/train.csv')
+test = pd.read_csv('../data/test.csv')
+full = pd.concat([train, test])
+
+print(train["Age"].isnull().sum())
+print(test["Age"].isnull().sum())
+print(full["Age"].isnull().sum())
+print(full["Age"].mean())
 
 
 file = open('../data/train.data.csv')

@@ -6,7 +6,7 @@ CSV_COLUMNS = ['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex',
                'Cabin', 'Embarked','CabinClass','CabinNo', 'Title']
 
 # TODO: Define better defaults
-CSV_COLUMN_DEFAULTS = [[0], [''], [0], [''], [''], [0.], [0], [0], [''], [0.], [''], [''], [''], [0], ['']]
+CSV_COLUMN_DEFAULTS = [[0], [''], [0], [''], [''], [29.8811376673], [0], [0], [''], [0.], [''], [''], [''], [0], ['']]
 LABEL_COLUMN = 'Survived'
 LABELS = ['0', '1']
 
