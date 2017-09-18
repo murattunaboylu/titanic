@@ -3,7 +3,7 @@ import tensorflow as tf
 # Define the format of your input data including unused columns
 CSV_COLUMNS = ['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex',
                'Age', 'SibSp', 'Parch', 'Ticket', 'Fare',
-               'Cabin', 'Embarked','CabinClass','CabinNo', 'Title']
+               'Cabin', 'Embarked', 'CabinClass', 'CabinNo', 'Title']
 
 # TODO: Define better defaults
 CSV_COLUMN_DEFAULTS = [[0], [''], [0], [''], [''], [29.8811376673], [0], [0], [''], [0.], [''], [''], [''], [0], ['']]
@@ -23,12 +23,7 @@ INPUT_COLUMNS = [
     tf.feature_column.categorical_column_with_vocabulary_list(
         'Sex',
         ['male', 'female']),
-    tf.feature_column.categorical_column_with_vocabulary_list(
-        'SibSp',
-        [0, 1, 2, 3, 4, 5]),
-    tf.feature_column.categorical_column_with_vocabulary_list(
-        'Parch',
-        [0, 1, 2, 3]),
+
     # Feature for cabin
     # Screening the values
     # cat data/train.data.csv | cut -d, -f12 | sort | uniq
@@ -46,7 +41,9 @@ INPUT_COLUMNS = [
     # Continuous base columns.
     tf.feature_column.numeric_column('Age'),
     tf.feature_column.numeric_column('Fare'),
-    tf.feature_column.numeric_column('CabinNo')
+    tf.feature_column.numeric_column('CabinNo'),
+    tf.feature_column.numeric_column('SibSp'),
+    tf.feature_column.numeric_column('Parch'),
 ]
 
 UNUSED_COLUMNS = set(CSV_COLUMNS) - {col.name for col in INPUT_COLUMNS} - {LABEL_COLUMN}
@@ -80,7 +77,7 @@ def build_estimator(config, embedding_size=8, hidden_units=None):
     Returns:
     A DNNCombinedLinearClassifier
     """
-    (p_class, sex, sibling, parent, cabin_class, embarked, title, age, fare, cabin_no) = INPUT_COLUMNS
+    (p_class, sex, cabin_class, embarked, title, age, fare, cabin_no, sibling, parent) = INPUT_COLUMNS
     """Build an estimator."""
 
     # Reused Transformations.
@@ -98,8 +95,6 @@ def build_estimator(config, embedding_size=8, hidden_units=None):
           [age_buckets, sex], hash_bucket_size=int(1e4)),
         p_class,
         sex,
-        sibling,
-        parent,
         embarked,
         age_buckets,
         cabin_class,
@@ -118,15 +113,26 @@ def build_estimator(config, embedding_size=8, hidden_units=None):
         #    native_country, dimension=embedding_size),
         # tf.feature_column.embedding_column(occupation, dimension=embedding_size),
         age,
-        fare
+        fare,
+        sibling,
+        parent
     ]
 
-    return tf.contrib.learn.DNNLinearCombinedClassifier(
+    '''return tf.contrib.learn.DNNLinearCombinedClassifier(
       config=config,
       linear_feature_columns=wide_columns,
       dnn_feature_columns=deep_columns,
       dnn_hidden_units=hidden_units or [50, 150, 100, 15],
       fix_global_step_increment_bug=True
+    )'''
+
+    return tf.contrib.learn.DNNClassifier(
+        feature_columns=deep_columns,
+        hidden_units=[1024, 512, 256],
+        optimizer=tf.train.ProximalAdagradOptimizer(
+          learning_rate=0.1,
+          l1_regularization_strength=0.001
+        )
     )
 
 
