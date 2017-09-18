@@ -17,10 +17,10 @@ while line:
     title = col[3].strip().split(' ')[0]
     pclass = col[1]
     sex = col[4]
-    age = col[5] if col[5] != "" else 0
+    age = col[5] if col[5] != "" else 29.88
     sibsp = col[6]
     parch = col[7]
-    fare = col[9] if col[9] != "" else 0
+    fare = col[9] if col[9] != "" else 33.29
     cabin_class = col[10][:1]
     cabin_nos = col[10][1:]
     cabin_no = cabin_nos.split(' ')[0]

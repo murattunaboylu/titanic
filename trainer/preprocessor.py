@@ -20,6 +20,11 @@ print(test["Age"].isnull().sum())
 print(full["Age"].isnull().sum())
 print(full["Age"].mean())
 
+print(train["Fare"].isnull().sum())
+print(test["Fare"].isnull().sum())
+print(full["Fare"].isnull().sum())
+print(full["Fare"].mean())
+
 
 file = open('../data/train.data.csv')
 writer = open('../data/train.data.processed.csv', 'w')
