@@ -1,5 +1,5 @@
-reader = open('../output/output.hyper.30.txt')
-writer = open('../data/titanic.prediction.8.csv', 'w')
+reader = open('../output/output.title.txt')
+writer = open('../data/titanic.prediction.9.csv', 'w')
 
 writer.write('PassengerId,Survived\n')
 

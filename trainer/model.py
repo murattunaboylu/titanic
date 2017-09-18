@@ -111,6 +111,7 @@ def build_estimator(config, embedding_size=8, hidden_units=None):
         tf.feature_column.indicator_column(p_class),
         tf.feature_column.indicator_column(sex),
         tf.feature_column.indicator_column(embarked),
+        tf.feature_column.indicator_column(title),
 
         # Use embedding columns for high dimensional vocabularies
         # tf.feature_column.embedding_column(
