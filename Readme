@@ -1,6 +1,6 @@
-TRAIN_DATA=$(pwd)/data/adult.data.csv
-EVAL_DATA=$(pwd)/data/adult.test.csv
-MODEL_DIR=output
+TRAIN_DATA=$(pwd)/data/train.data.processed.csv
+EVAL_DATA=$(pwd)/data/train.eval.processed.csv
+MODEL_DIR=outputs/output
 
 # train local
 gcloud ml-engine local train \

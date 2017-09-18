@@ -1,5 +1,5 @@
-reader = open('../output/output.age.txt')
-writer = open('../data/titanic.prediction.11.csv', 'w')
+reader = open('../output/output.parent.dnn.txt')
+writer = open('../data/titanic.prediction.12.csv', 'w')
 
 writer.write('PassengerId,Survived\n')
 

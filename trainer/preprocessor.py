@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 # pre-process the input files
@@ -18,7 +19,13 @@ full = pd.concat([train, test])
 print(train["Age"].isnull().sum())
 print(test["Age"].isnull().sum())
 print(full["Age"].isnull().sum())
+age = full["Age"]
 print(full["Age"].mean())
+
+# plot histogram of age
+plt.hist(age.dropna(), bins=10)
+# plt.show()
+# planning to fill missing age values by using MICE from hammer lab
 
 print(train["Fare"].isnull().sum())
 print(test["Fare"].isnull().sum())
