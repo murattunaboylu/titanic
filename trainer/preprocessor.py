@@ -16,7 +16,7 @@ train = pd.read_csv('../data/train.csv')
 test = pd.read_csv('../data/test.csv')
 full = pd.concat([train, test])
 
-print(train["Age"].isnull().sum())
+'''print(train["Age"].isnull().sum())
 print(test["Age"].isnull().sum())
 print(full["Age"].isnull().sum())
 age = full["Age"]
@@ -30,11 +30,11 @@ plt.hist(age.dropna(), bins=10)
 print(train["Fare"].isnull().sum())
 print(test["Fare"].isnull().sum())
 print(full["Fare"].isnull().sum())
-print(full["Fare"].mean())
+print(full["Fare"].mean())'''
 
 
-file = open('../data/train.data.csv')
-writer = open('../data/train.data.processed.csv', 'w')
+file = open('../data/train.csv')
+writer = open('../data/train.processed.csv', 'w')
 
 line = file.readline()
 
